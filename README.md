@@ -9,7 +9,7 @@ CiCo (aka "Check in - Check out") is a status bar app to track your working hour
 * Click on 'Open Report' see your saved shifts. 
 
 ## Download
-Download the standalone MacOS app [here](https://github.com/chrischma/CiCo/blob/main/CiCo.app.zip).
+Download the standalone MacOS app [here](https://github.com/chrischma/CiCo/releases).
 
 ## Credits
 Thanks to jaredks for making this project ridiculously uncomplicated by building [rumps](https://github.com/jaredks/rumps).
